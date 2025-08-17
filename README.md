@@ -1,5 +1,5 @@
-# Student-Record-Management-system
-The Student Record Management System is a role-based desktop application developed to efficiently manage student-related data within an educational institution. The system enables administrators, teachers, and students to access relevant functionalities via secure login. It minimizes manual recordkeeping, enhances data accuracy, and streamlines academic administration.
+# Student-Management-system
+The Student Management System is a role-based desktop application developed to efficiently manage student-related data within an educational institution. The system enables administrators, teachers, and students to access relevant functionalities via secure login. It minimizes manual recordkeeping, enhances data accuracy, and streamlines academic administration.
 
 Objectives:
 
